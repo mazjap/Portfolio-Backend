@@ -1,0 +1,670 @@
+07/11/2021 00:33:57AM: Setting up server...
+07/11/2021 00:33:57AM: Server started on port 3001
+07/11/2021 00:38:07AM: Setting up server...
+07/11/2021 00:38:07AM: Server started on port 3001
+07/11/2021 00:38:08AM: [object Object]
+07/11/2021 00:38:08AM: undefined
+07/11/2021 00:39:39AM: Setting up server...
+07/11/2021 00:39:39AM: Server started on port 3001
+07/11/2021 00:39:40AM: [object Object]
+07/11/2021 00:39:40AM: undefined
+07/11/2021 00:39:40AM: still working
+07/11/2021 00:42:47AM: Setting up server...
+07/11/2021 00:42:47AM: Server started on port 3001
+07/11/2021 00:43:05AM: Attempting to get type All Projects from database
+07/11/2021 00:43:13AM: AlreadyHasActiveConnectionError: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session.
+07/11/2021 00:53:14AM: Setting up server...
+07/11/2021 00:53:14AM: Server started on port 3001
+07/11/2021 00:53:25AM: Attempting to get type All Projects from database
+07/11/2021 00:53:26AM: Attempting to get type All Projects from database
+07/11/2021 00:53:30AM: AlreadyHasActiveConnectionError: Cannot create a new connection named "default", because connection with such name already exist and it now has an active connection session.
+07/11/2021 01:13:46AM: Setting up server...
+07/11/2021 01:13:46AM: Server started on port 3001
+07/11/2021 01:13:54AM: Attempting to get type All Timelines from database
+07/11/2021 01:13:57AM: Attempting to get type All Projects from database
+07/11/2021 01:13:59AM: Attempting to get type All Timelines from database
+07/11/2021 01:14:00AM: Attempting to get type All Timelines from database
+07/11/2021 01:14:01AM: Attempting to get type All Timelines from database
+07/11/2021 01:14:03AM: Attempting to get type Timeline from database
+07/11/2021 01:24:51AM: Attempting to get type Project from database
+07/11/2021 01:50:31AM: Setting up server...
+07/11/2021 01:50:31AM: Server started on port 3001
+07/11/2021 01:55:44AM: Attempting to GET type All Projects from database
+07/11/2021 01:07:40AM: Setting up server...
+07/11/2021 01:07:40AM: Server started on port 3001
+07/11/2021 01:12:19AM: Setting up server...
+07/11/2021 01:12:19AM: Server started on port 3001
+07/11/2021 01:13:12AM: Setting up server...
+07/11/2021 01:13:12AM: Server started on port 3001
+07/11/2021 01:13:17AM: Attempting to INSERT new type Project from database
+07/11/2021 01:13:48AM: Attempting to INSERT new type Project from database
+07/11/2021 01:13:48AM: TypeError: urlArr is not iterable
+07/11/2021 01:17:46AM: Setting up server...
+07/11/2021 01:17:46AM: Server started on port 3001
+07/11/2021 01:17:54AM: Attempting to GET type All Projects from database
+07/11/2021 01:17:56AM: Attempting to INSERT new type Project from database
+07/11/2021 01:17:56AM: QueryFailedError: ER_NO_DEFAULT_FOR_FIELD: Field 'production' doesn't have a default value
+07/11/2021 02:21:41AM: Setting up server...
+07/11/2021 02:21:41AM: Server started on port 3001
+07/11/2021 02:21:53AM: Attempting to INSERT new type Project from database
+07/11/2021 02:23:04AM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Wed Dec 31 1969 17:00:00 GMT-0700 (Mountain Standard Time)' at line 1
+07/11/2021 02:27:29AM: Setting up server...
+07/11/2021 02:27:29AM: Server started on port 3001
+07/11/2021 02:27:35AM: Attempting to INSERT new type Project from database
+07/11/2021 02:28:11AM: Attempting to GET type All Projects from database
+07/11/2021 02:28:16AM: Attempting to GET type Project from database
+07/11/2021 02:35:42AM: Setting up server...
+07/11/2021 02:35:42AM: Server started on port 3001
+07/11/2021 02:35:50AM: Attempting to INSERT new type Project from database
+07/11/2021 02:35:50AM: UpdateValuesMissingError: Cannot perform update query because update values are not defined. Call "qb.set(...)" method to specify updated values.
+07/11/2021 1:16:14PM: Attempting to GET type All Projects from database
+07/11/2021 1:19:00PM: Attempting to GET type All Projects from database
+07/11/2021 1:19:00PM: Attempting to GET type All Timelines from database
+07/11/2021 1:19:32PM: Attempting to GET type All Projects from database
+07/11/2021 1:19:32PM: Attempting to GET type All Timelines from database
+07/11/2021 1:20:06PM: Attempting to GET type All Projects from database
+07/11/2021 1:20:06PM: Attempting to GET type All Timelines from database
+07/11/2021 1:20:33PM: Attempting to GET type All Projects from database
+07/11/2021 1:20:33PM: Attempting to GET type All Timelines from database
+07/11/2021 1:22:04PM: Attempting to GET type All Projects from database
+07/11/2021 1:22:09PM: Attempting to GET type All Projects from database
+07/11/2021 1:22:18PM: Attempting to GET type All Projects from database
+07/11/2021 1:23:46PM: Attempting to GET type All Projects from database
+07/11/2021 1:23:46PM: Attempting to GET type All Timelines from database
+07/11/2021 1:57:14PM: Attempting to GET type All Projects from database
+07/11/2021 1:57:14PM: Attempting to GET type All Timelines from database
+07/11/2021 1:57:19PM: Attempting to GET type All Projects from database
+07/11/2021 1:57:19PM: Attempting to GET type All Timelines from database
+07/11/2021 1:59:20PM: Attempting to GET type All Projects from database
+07/11/2021 1:59:20PM: Attempting to GET type All Timelines from database
+07/11/2021 2:14:10PM: Attempting to GET type All Projects from database
+07/11/2021 2:14:10PM: Attempting to GET type All Timelines from database
+07/11/2021 2:14:16PM: Attempting to GET type All Projects from database
+07/11/2021 2:14:16PM: Attempting to GET type All Timelines from database
+07/11/2021 2:14:17PM: Attempting to GET type All Projects from database
+07/11/2021 2:14:17PM: Attempting to GET type All Timelines from database
+07/11/2021 2:16:05PM: Attempting to GET type All Projects from database
+07/11/2021 2:16:44PM: Attempting to GET type All Projects from database
+07/11/2021 2:16:44PM: Attempting to GET type All Timelines from database
+08/11/2021 10:59:46AM: Attempting to GET type All Projects from database
+08/11/2021 10:59:46AM: Attempting to GET type All Timelines from database
+09/11/2021 02:04:43AM: Setting up server...
+09/11/2021 02:04:43AM: Server started on port 3001
+09/11/2021 02:04:53AM: Attempting to GET type All Projects from database
+09/11/2021 02:04:53AM: Attempting to GET type All Timelines from database
+09/11/2021 02:04:59AM: Attempting to GET type All Projects from database
+09/11/2021 02:05:49AM: Attempting to INSERT new type Project from database
+09/11/2021 02:05:49AM: UpdateValuesMissingError: Cannot perform update query because update values are not defined. Call "qb.set(...)" method to specify updated values.
+09/11/2021 02:07:36AM: Setting up server...
+09/11/2021 02:07:36AM: Server started on port 3001
+09/11/2021 02:07:39AM: Attempting to INSERT new type Project from database
+09/11/2021 02:07:39AM: UpdateValuesMissingError: Cannot perform update query because update values are not defined. Call "qb.set(...)" method to specify updated values.
+09/11/2021 02:19:01AM: Setting up server...
+09/11/2021 02:19:01AM: Server started on port 3001
+09/11/2021 02:20:16AM: Setting up server...
+09/11/2021 02:20:16AM: Server started on port 3001
+09/11/2021 02:21:06AM: Attempting to INSERT new type Project from database
+09/11/2021 02:21:27AM: Attempting to INSERT new type Project from database
+09/11/2021 02:21:36AM: Attempting to GET type All Projects from database
+09/11/2021 02:21:36AM: Attempting to GET type All Timelines from database
+09/11/2021 02:21:37AM: Attempting to GET type All Projects from database
+09/11/2021 02:21:38AM: Attempting to GET type All Timelines from database
+09/11/2021 02:23:38AM: Setting up server...
+09/11/2021 02:23:38AM: Server started on port 3001
+09/11/2021 02:23:42AM: Attempting to GET type All Projects from database
+09/11/2021 02:23:42AM: Attempting to GET type All Timelines from database
+09/11/2021 02:23:54AM: Attempting to GET type All Projects from database
+09/11/2021 02:29:04AM: Setting up server...
+09/11/2021 02:29:04AM: Server started on port 3001
+09/11/2021 02:29:09AM: Attempting to GET type All Projects from database
+09/11/2021 02:29:19AM: Attempting to GET type Project from database
+09/11/2021 02:30:46AM: Attempting to GET type Project from database
+09/11/2021 02:30:52AM: Setting up server...
+09/11/2021 02:30:52AM: Server started on port 3001
+09/11/2021 02:30:55AM: Attempting to GET type Project from database
+09/11/2021 02:31:00AM: Attempting to GET type All Projects from database
+09/11/2021 02:31:00AM: Attempting to GET type All Timelines from database
+09/11/2021 02:33:15AM: Attempting to DELETE type Project from database
+09/11/2021 02:33:15AM: QueryFailedError: ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`jordpcye_portfolio_backend`.`image`, CONSTRAINT `FK_63c8a589bd02b3525546ac70795` FOREIGN KEY (`projectId`) REFERENCES `project` (`id`))
+09/11/2021 02:35:04AM: Setting up server...
+09/11/2021 02:35:04AM: Server started on port 3001
+09/11/2021 02:35:08AM: Attempting to DELETE type Project from database
+09/11/2021 02:35:08AM: QueryFailedError: ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`jordpcye_portfolio_backend`.`image`, CONSTRAINT `FK_63c8a589bd02b3525546ac70795` FOREIGN KEY (`projectId`) REFERENCES `project` (`id`))
+09/11/2021 02:36:57AM: Setting up server...
+09/11/2021 02:36:57AM: Server started on port 3001
+09/11/2021 02:37:02AM: Attempting to DELETE type Project from database
+09/11/2021 02:37:22AM: Attempting to GET type All Projects from database
+09/11/2021 02:53:08AM: Setting up server...
+09/11/2021 02:53:08AM: Server started on port 3001
+09/11/2021 02:55:45AM: Setting up server...
+09/11/2021 02:55:45AM: Server started on port 3001
+09/11/2021 02:56:40AM: Attempting to INSERT new type Timeline from database
+09/11/2021 02:56:40AM: QueryFailedError: ER_DATA_TOO_LONG: Data too long for column 'description' at row 1
+09/11/2021 02:59:19AM: Setting up server...
+09/11/2021 02:59:19AM: Server started on port 3001
+09/11/2021 02:59:24AM: Attempting to INSERT new type Timeline from database
+09/11/2021 02:59:24AM: QueryFailedError: ER_DATA_TOO_LONG: Data too long for column 'description' at row 1
+09/11/2021 03:00:48AM: Setting up server...
+09/11/2021 03:00:48AM: Server started on port 3001
+09/11/2021 03:01:00AM: Setting up server...
+09/11/2021 03:01:00AM: Server started on port 3001
+09/11/2021 03:01:04AM: Attempting to INSERT new type Timeline from database
+09/11/2021 03:01:04AM: QueryFailedError: ER_DATA_TOO_LONG: Data too long for column 'description' at row 1
+09/11/2021 03:02:06AM: Attempting to INSERT new type Timeline from database
+09/11/2021 03:02:13AM: Attempting to GET type All Projects from database
+09/11/2021 03:02:13AM: Attempting to GET type All Timelines from database
+09/11/2021 03:02:22AM: Attempting to GET type All Timelines from database
+09/11/2021 03:02:22AM: Attempting to GET type All Projects from database
+09/11/2021 03:04:16AM: Attempting to GET type All Projects from database
+09/11/2021 03:04:16AM: Attempting to GET type All Timelines from database
+09/11/2021 03:04:17AM: Attempting to GET type All Projects from database
+09/11/2021 03:04:17AM: Attempting to GET type All Timelines from database
+09/11/2021 03:04:48AM: Attempting to GET type All Projects from database
+09/11/2021 03:04:48AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:02AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:02AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:11AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:11AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:15AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:15AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:27AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:27AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:37AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:37AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:42AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:42AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:47AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:47AM: Attempting to GET type All Timelines from database
+09/11/2021 03:05:50AM: Attempting to GET type All Projects from database
+09/11/2021 03:05:50AM: Attempting to GET type All Timelines from database
+09/11/2021 03:06:09AM: Attempting to GET type All Projects from database
+09/11/2021 03:06:09AM: Attempting to GET type All Timelines from database
+09/11/2021 03:06:34AM: Attempting to GET type All Projects from database
+09/11/2021 03:06:34AM: Attempting to GET type All Timelines from database
+09/11/2021 03:06:52AM: Attempting to GET type All Projects from database
+09/11/2021 03:06:52AM: Attempting to GET type All Timelines from database
+09/11/2021 03:07:13AM: Attempting to GET type All Timelines from database
+09/11/2021 03:07:13AM: Attempting to GET type All Projects from database
+09/11/2021 03:07:34AM: Attempting to GET type All Projects from database
+09/11/2021 03:07:34AM: Attempting to GET type All Timelines from database
+09/11/2021 03:07:53AM: Attempting to GET type All Projects from database
+09/11/2021 03:07:53AM: Attempting to GET type All Timelines from database
+09/11/2021 03:08:14AM: Attempting to GET type All Projects from database
+09/11/2021 03:08:14AM: Attempting to GET type All Timelines from database
+09/11/2021 03:08:20AM: Attempting to GET type All Projects from database
+09/11/2021 03:08:20AM: Attempting to GET type All Timelines from database
+09/11/2021 03:08:23AM: Attempting to GET type All Projects from database
+09/11/2021 03:08:23AM: Attempting to GET type All Timelines from database
+09/11/2021 03:08:30AM: Attempting to GET type All Projects from database
+09/11/2021 03:08:31AM: Attempting to GET type All Timelines from database
+09/11/2021 03:08:39AM: Attempting to GET type All Projects from database
+09/11/2021 03:08:39AM: Attempting to GET type All Timelines from database
+09/11/2021 03:09:00AM: Attempting to GET type All Projects from database
+09/11/2021 03:09:00AM: Attempting to GET type All Timelines from database
+09/11/2021 03:09:01AM: Attempting to GET type All Projects from database
+09/11/2021 03:09:01AM: Attempting to GET type All Timelines from database
+09/11/2021 03:09:20AM: Attempting to GET type All Projects from database
+09/11/2021 03:09:20AM: Attempting to GET type All Timelines from database
+09/11/2021 03:10:02AM: Attempting to GET type All Timelines from database
+09/11/2021 03:10:31AM: Attempting to GET type All Timelines from database
+09/11/2021 03:10:53AM: Attempting to GET type All Timelines from database
+09/11/2021 03:10:53AM: Attempting to GET type All Projects from database
+09/11/2021 03:11:04AM: Attempting to GET type All Projects from database
+09/11/2021 03:11:04AM: Attempting to GET type All Timelines from database
+09/11/2021 03:11:09AM: Attempting to GET type All Projects from database
+09/11/2021 03:11:09AM: Attempting to GET type All Timelines from database
+09/11/2021 03:11:51AM: Attempting to GET type All Projects from database
+09/11/2021 03:11:51AM: Attempting to GET type All Timelines from database
+09/11/2021 03:13:19AM: Attempting to GET type All Projects from database
+09/11/2021 03:13:19AM: Attempting to GET type All Timelines from database
+09/11/2021 03:13:45AM: Attempting to GET type All Timelines from database
+09/11/2021 03:13:49AM: Attempting to GET type All Timelines from database
+09/11/2021 03:13:51AM: Attempting to GET type All Timelines from database
+09/11/2021 03:13:51AM: Attempting to GET type All Projects from database
+09/11/2021 03:14:14AM: Attempting to GET type All Timelines from database
+09/11/2021 03:14:15AM: Attempting to GET type All Projects from database
+09/11/2021 03:14:15AM: Attempting to GET type All Timelines from database
+09/11/2021 03:14:32AM: Attempting to GET type All Timelines from database
+09/11/2021 03:14:34AM: Attempting to GET type All Timelines from database
+09/11/2021 03:14:34AM: Attempting to GET type All Projects from database
+09/11/2021 03:14:52AM: Attempting to GET type All Timelines from database
+09/11/2021 03:16:02AM: Attempting to GET type All Timelines from database
+09/11/2021 03:16:34AM: Attempting to GET type All Timelines from database
+09/11/2021 03:16:34AM: Attempting to GET type All Projects from database
+09/11/2021 03:16:35AM: Attempting to GET type All Projects from database
+09/11/2021 03:16:36AM: Attempting to GET type All Projects from database
+09/11/2021 03:17:39AM: Attempting to GET type All Projects from database
+09/11/2021 03:17:39AM: Attempting to GET type All Timelines from database
+09/11/2021 03:18:20AM: Attempting to GET type All Projects from database
+09/11/2021 03:18:20AM: Attempting to GET type All Timelines from database
+09/11/2021 03:19:34AM: Attempting to GET type All Projects from database
+09/11/2021 03:19:34AM: Attempting to GET type All Timelines from database
+09/11/2021 03:19:47AM: Attempting to GET type All Projects from database
+09/11/2021 03:19:47AM: Attempting to GET type All Timelines from database
+09/11/2021 03:19:49AM: Attempting to GET type All Projects from database
+09/11/2021 03:19:49AM: Attempting to GET type All Timelines from database
+09/11/2021 03:23:47AM: Attempting to GET type All Projects from database
+09/11/2021 03:23:47AM: Attempting to GET type All Timelines from database
+09/11/2021 03:23:51AM: Attempting to GET type All Projects from database
+09/11/2021 03:23:51AM: Attempting to GET type All Timelines from database
+09/11/2021 03:25:10AM: Attempting to GET type All Projects from database
+09/11/2021 03:25:10AM: Attempting to GET type All Timelines from database
+09/11/2021 03:25:18AM: Attempting to GET type All Projects from database
+09/11/2021 03:25:18AM: Attempting to GET type All Timelines from database
+09/11/2021 03:27:40AM: Attempting to GET type All Projects from database
+09/11/2021 03:27:40AM: Attempting to GET type All Timelines from database
+09/11/2021 03:27:57AM: Attempting to GET type All Projects from database
+09/11/2021 03:27:57AM: Attempting to GET type All Timelines from database
+09/11/2021 03:27:59AM: Attempting to GET type All Projects from database
+09/11/2021 03:27:59AM: Attempting to GET type All Timelines from database
+09/11/2021 03:28:29AM: Attempting to GET type All Projects from database
+09/11/2021 03:28:29AM: Attempting to GET type All Timelines from database
+09/11/2021 03:29:05AM: Attempting to GET type All Projects from database
+09/11/2021 03:29:05AM: Attempting to GET type All Timelines from database
+09/11/2021 03:29:06AM: Attempting to GET type All Projects from database
+09/11/2021 03:29:06AM: Attempting to GET type All Timelines from database
+09/11/2021 03:29:21AM: Attempting to GET type All Projects from database
+09/11/2021 03:29:21AM: Attempting to GET type All Timelines from database
+09/11/2021 03:29:21AM: Attempting to GET type All Projects from database
+09/11/2021 03:29:21AM: Attempting to GET type All Timelines from database
+09/11/2021 03:29:22AM: Attempting to GET type All Projects from database
+09/11/2021 03:29:22AM: Attempting to GET type All Timelines from database
+09/11/2021 03:31:39AM: Attempting to GET type All Projects from database
+09/11/2021 03:31:39AM: Attempting to GET type All Timelines from database
+09/11/2021 03:31:41AM: Attempting to GET type All Projects from database
+09/11/2021 03:31:41AM: Attempting to GET type All Timelines from database
+09/11/2021 03:32:08AM: Attempting to GET type All Projects from database
+09/11/2021 03:32:28AM: Attempting to GET type All Timelines from database
+09/11/2021 03:33:08AM: Attempting to GET type All Projects from database
+09/11/2021 03:33:08AM: Attempting to GET type All Timelines from database
+09/11/2021 03:33:09AM: Attempting to GET type All Projects from database
+09/11/2021 03:33:09AM: Attempting to GET type All Projects from database
+09/11/2021 03:33:10AM: Attempting to GET type All Projects from database
+09/11/2021 03:33:11AM: Attempting to GET type All Projects from database
+09/11/2021 03:36:21AM: Attempting to GET type All Projects from database
+09/11/2021 03:36:21AM: Attempting to GET type All Timelines from database
+09/11/2021 03:36:29AM: Attempting to GET type All Projects from database
+09/11/2021 03:36:29AM: Attempting to GET type All Timelines from database
+09/11/2021 03:37:05AM: Attempting to GET type All Projects from database
+09/11/2021 03:37:05AM: Attempting to GET type All Timelines from database
+09/11/2021 03:37:15AM: Attempting to GET type All Projects from database
+09/11/2021 03:37:15AM: Attempting to GET type All Timelines from database
+09/11/2021 03:37:19AM: Attempting to GET type All Projects from database
+09/11/2021 03:37:20AM: Attempting to GET type All Projects from database
+09/11/2021 03:37:58AM: Attempting to GET type All Projects from database
+09/11/2021 03:37:58AM: Attempting to GET type All Timelines from database
+09/11/2021 03:38:18AM: Attempting to GET type All Projects from database
+09/11/2021 03:38:18AM: Attempting to GET type All Timelines from database
+09/11/2021 03:38:23AM: Attempting to GET type All Projects from database
+09/11/2021 03:38:23AM: Attempting to GET type All Timelines from database
+09/11/2021 03:38:53AM: Attempting to GET type All Projects from database
+09/11/2021 03:38:54AM: Attempting to GET type All Timelines from database
+09/11/2021 03:39:20AM: Attempting to GET type All Projects from database
+09/11/2021 03:39:20AM: Attempting to GET type All Timelines from database
+09/11/2021 03:40:01AM: Attempting to GET type All Projects from database
+09/11/2021 03:40:01AM: Attempting to GET type All Timelines from database
+09/11/2021 03:40:09AM: Attempting to GET type All Projects from database
+09/11/2021 03:40:11AM: Attempting to GET type All Projects from database
+09/11/2021 03:43:33AM: Attempting to GET type All Projects from database
+09/11/2021 03:43:33AM: Attempting to GET type All Timelines from database
+09/11/2021 03:45:18AM: Attempting to GET type All Projects from database
+09/11/2021 03:45:18AM: Attempting to GET type All Timelines from database
+09/11/2021 03:45:19AM: Attempting to GET type All Projects from database
+09/11/2021 03:45:19AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:31AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:31AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:32AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:32AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:41AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:41AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:43AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:43AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:48AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:48AM: Attempting to GET type All Timelines from database
+09/11/2021 03:46:49AM: Attempting to GET type All Projects from database
+09/11/2021 03:46:49AM: Attempting to GET type All Timelines from database
+11/11/2021 12:34:54AM: Setting up server...
+11/11/2021 12:34:54AM: Server started on port 3001
+11/11/2021 12:36:24AM: Attempting to GET type All Timelines from database
+11/11/2021 12:36:24AM: Attempting to GET type All Projects from database
+11/11/2021 12:47:27AM: Attempting to GET type All Projects from database
+11/11/2021 12:47:27AM: Attempting to GET type All Timelines from database
+11/11/2021 12:48:03AM: Attempting to GET type All Projects from database
+11/11/2021 12:48:11AM: Attempting to GET type All Projects from database
+11/11/2021 3:08:24PM: Attempting to GET type All Projects from database
+11/11/2021 3:08:24PM: Attempting to GET type All Projects from database
+11/11/2021 3:10:45PM: Setting up server...
+11/11/2021 3:10:45PM: Server started on port 3001
+11/11/2021 4:19:28PM: GET received for type All Projects on server
+11/11/2021 4:19:28PM: Attempting to GET type All Projects from database
+11/11/2021 4:19:29PM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+11/11/2021 4:20:32PM: Setting up server...
+11/11/2021 4:20:32PM: Server started on port 3001
+11/11/2021 4:20:46PM: Setting up server...
+11/11/2021 4:20:46PM: Server started on port 3001
+11/11/2021 4:21:34PM: Setting up server...
+11/11/2021 4:21:34PM: Server started on port 3001
+11/11/2021 4:21:57PM: GET received for type All Projects on server
+11/11/2021 4:21:57PM: Attempting to GET type All Projects from database
+11/11/2021 4:21:57PM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+11/11/2021 5:03:48PM: Setting up server...
+11/11/2021 5:03:48PM: Server started on port 3001
+11/11/2021 5:03:51PM: GET received for type All Projects on server
+11/11/2021 5:03:51PM: Attempting to GET type All Projects from database
+11/11/2021 5:03:51PM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+11/11/2021 5:19:27PM: Setting up server...
+11/11/2021 5:19:27PM: Server started on port 3001
+11/11/2021 5:19:31PM: GET received for type All Projects on server
+11/11/2021 5:19:31PM: Attempting to GET type All Projects from database
+11/11/2021 5:19:31PM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+11/11/2021 5:20:21PM: Setting up server...
+11/11/2021 5:20:21PM: Server started on port 3001
+11/11/2021 5:20:24PM: GET received for type All Projects on server
+11/11/2021 5:20:24PM: Attempting to GET type All Projects from database
+11/11/2021 5:20:24PM: QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+11/11/2021 5:49:33PM: Setting up server...
+11/11/2021 5:49:33PM: Server started on port 3001
+11/11/2021 5:49:42PM: GET received for type All Projects on server
+11/11/2021 5:49:42PM: Attempting to GET type All Projects from database
+11/11/2021 5:49:42PM: QueryFailedError: ER_NO_SUCH_TABLE: Table 'jordpcye_portfolio_backend.project' doesn't exist
+11/11/2021 5:50:21PM: Setting up server...
+11/11/2021 5:50:21PM: Server started on port 3001
+11/11/2021 5:50:23PM: GET received for type All Projects on server
+11/11/2021 5:50:23PM: Attempting to GET type All Projects from database
+11/11/2021 6:11:39PM: POST received for type Project on server
+11/11/2021 6:11:39PM: Attempting to POST new type Project from database
+11/11/2021 6:11:40PM: TypeError: Cannot read property 'url' of undefined
+11/11/2021 6:21:03PM: Setting up server...
+11/11/2021 6:21:03PM: Server started on port 3001
+11/11/2021 6:21:30PM: Setting up server...
+11/11/2021 6:21:30PM: Server started on port 3001
+11/11/2021 6:21:36PM: POST received for type Project on server
+11/11/2021 6:21:36PM: Attempting to POST new type Project from database
+11/11/2021 6:21:36PM: QueryFailedError: ER_NO_SUCH_TABLE: Table 'jordpcye_portfolio_backend.image' doesn't exist
+11/11/2021 6:21:46PM: Setting up server...
+11/11/2021 6:21:46PM: Server started on port 3001
+11/11/2021 6:21:49PM: POST received for type Project on server
+11/11/2021 6:21:49PM: Attempting to POST new type Project from database
+11/11/2021 6:21:49PM: QueryFailedError: ER_NO_SUCH_TABLE: Table 'jordpcye_portfolio_backend.image' doesn't exist
+11/11/2021 6:45:00PM: Setting up server...
+11/11/2021 6:45:00PM: Server started on port 3001
+11/11/2021 6:46:31PM: POST received for type Project on server
+11/11/2021 6:46:31PM: Attempting to POST new type Project from database
+11/11/2021 6:46:31PM: TypeError: Cannot read property 'url' of undefined
+11/11/2021 7:03:03PM: Setting up server...
+11/11/2021 7:03:03PM: Server started on port 3001
+11/11/2021 7:04:15PM: Setting up server...
+11/11/2021 7:04:15PM: Server started on port 3001
+11/11/2021 7:04:17PM: POST received for type Project on server
+11/11/2021 7:04:17PM: Attempting to POST new type Project from database
+11/11/2021 7:04:32PM: GET received for type All Projects on server
+11/11/2021 7:04:32PM: Attempting to GET type All Projects from database
+11/11/2021 7:04:32PM: GET received for type All Timelines on server
+11/11/2021 7:04:32PM: Attempting to GET type All Timelines from database
+11/11/2021 7:04:33PM: GET received for type All Projects on server
+11/11/2021 7:04:33PM: Attempting to GET type All Projects from database
+11/11/2021 7:04:33PM: GET received for type All Timelines on server
+11/11/2021 7:04:33PM: Attempting to GET type All Timelines from database
+11/11/2021 7:08:39PM: GET received for type All Timelines on server
+11/11/2021 7:08:39PM: Attempting to GET type All Timelines from database
+11/11/2021 7:08:39PM: GET received for type All Projects on server
+11/11/2021 7:08:39PM: Attempting to GET type All Projects from database
+11/11/2021 7:08:49PM: GET received for type All Projects on server
+11/11/2021 7:08:49PM: Attempting to GET type All Projects from database
+11/11/2021 7:08:49PM: GET received for type All Timelines on server
+11/11/2021 7:08:49PM: Attempting to GET type All Timelines from database
+11/11/2021 7:09:00PM: GET received for type All Timelines on server
+11/11/2021 7:09:00PM: Attempting to GET type All Timelines from database
+11/11/2021 7:09:00PM: GET received for type All Projects on server
+11/11/2021 7:09:00PM: Attempting to GET type All Projects from database
+11/11/2021 7:09:08PM: GET received for type All Projects on server
+11/11/2021 7:09:08PM: Attempting to GET type All Projects from database
+11/11/2021 7:09:08PM: GET received for type All Timelines on server
+11/11/2021 7:09:08PM: Attempting to GET type All Timelines from database
+11/11/2021 7:09:09PM: GET received for type All Projects on server
+11/11/2021 7:09:09PM: Attempting to GET type All Projects from database
+11/11/2021 7:09:09PM: GET received for type All Timelines on server
+11/11/2021 7:09:09PM: Attempting to GET type All Timelines from database
+11/11/2021 7:10:16PM: GET received for type All Timelines on server
+11/11/2021 7:10:16PM: Attempting to GET type All Timelines from database
+11/11/2021 7:10:16PM: GET received for type All Projects on server
+11/11/2021 7:10:16PM: Attempting to GET type All Projects from database
+11/11/2021 7:10:35PM: GET received for type All Projects on server
+11/11/2021 7:10:35PM: Attempting to GET type All Projects from database
+11/11/2021 7:11:22PM: GET received for type All Timelines on server
+11/11/2021 7:11:22PM: Attempting to GET type All Timelines from database
+11/11/2021 7:11:22PM: GET received for type All Projects on server
+11/11/2021 7:11:22PM: Attempting to GET type All Projects from database
+11/11/2021 7:11:53PM: GET received for type All Timelines on server
+11/11/2021 7:11:53PM: Attempting to GET type All Timelines from database
+11/11/2021 7:11:54PM: GET received for type All Projects on server
+11/11/2021 7:11:54PM: Attempting to GET type All Projects from database
+11/11/2021 7:11:54PM: GET received for type All Timelines on server
+11/11/2021 7:11:54PM: Attempting to GET type All Timelines from database
+11/11/2021 7:12:04PM: GET received for type All Projects on server
+11/11/2021 7:12:04PM: Attempting to GET type All Projects from database
+11/11/2021 7:15:35PM: GET received for type All Timelines on server
+11/11/2021 7:15:35PM: Attempting to GET type All Timelines from database
+11/11/2021 7:15:35PM: GET received for type All Projects on server
+11/11/2021 7:15:35PM: Attempting to GET type All Projects from database
+11/11/2021 7:15:59PM: GET received for type All Projects on server
+11/11/2021 7:15:59PM: Attempting to GET type All Projects from database
+11/11/2021 7:15:59PM: GET received for type All Timelines on server
+11/11/2021 7:15:59PM: Attempting to GET type All Timelines from database
+11/11/2021 7:16:00PM: GET received for type All Projects on server
+11/11/2021 7:16:00PM: Attempting to GET type All Projects from database
+11/11/2021 7:16:00PM: GET received for type All Timelines on server
+11/11/2021 7:16:00PM: Attempting to GET type All Timelines from database
+11/11/2021 7:33:06PM: GET received for type All Projects on server
+11/11/2021 7:33:06PM: Attempting to GET type All Projects from database
+11/11/2021 7:33:06PM: GET received for type All Timelines on server
+11/11/2021 7:33:06PM: Attempting to GET type All Timelines from database
+11/11/2021 7:33:13PM: GET received for type All Projects on server
+11/11/2021 7:33:13PM: Attempting to GET type All Projects from database
+11/11/2021 7:33:13PM: GET received for type All Timelines on server
+11/11/2021 7:33:13PM: Attempting to GET type All Timelines from database
+11/11/2021 7:35:57PM: GET received for type All Timelines on server
+11/11/2021 7:35:57PM: Attempting to GET type All Timelines from database
+11/11/2021 7:35:57PM: GET received for type All Projects on server
+11/11/2021 7:35:57PM: Attempting to GET type All Projects from database
+11/11/2021 7:36:01PM: GET received for type All Projects on server
+11/11/2021 7:36:01PM: Attempting to GET type All Projects from database
+11/11/2021 7:36:01PM: GET received for type All Timelines on server
+11/11/2021 7:36:01PM: Attempting to GET type All Timelines from database
+11/11/2021 7:37:12PM: GET received for type All Projects on server
+11/11/2021 7:37:12PM: Attempting to GET type All Projects from database
+11/11/2021 7:37:12PM: GET received for type All Timelines on server
+11/11/2021 7:37:12PM: Attempting to GET type All Timelines from database
+11/11/2021 11:16:43PM: GET received for type All Projects on server
+11/11/2021 11:16:43PM: Attempting to GET type All Projects from database
+11/11/2021 11:16:43PM: GET received for type All Timelines on server
+11/11/2021 11:16:43PM: Attempting to GET type All Timelines from database
+11/11/2021 11:17:38PM: GET received for type All Projects on server
+11/11/2021 11:17:38PM: Attempting to GET type All Projects from database
+11/11/2021 11:17:38PM: GET received for type All Timelines on server
+11/11/2021 11:17:38PM: Attempting to GET type All Timelines from database
+11/11/2021 11:17:41PM: GET received for type All Projects on server
+11/11/2021 11:17:41PM: Attempting to GET type All Projects from database
+11/11/2021 11:17:43PM: GET received for type All Projects on server
+11/11/2021 11:17:43PM: Attempting to GET type All Projects from database
+11/11/2021 11:19:00PM: GET received for type All Projects on server
+11/11/2021 11:19:00PM: Attempting to GET type All Projects from database
+11/11/2021 11:19:18PM: GET received for type All Projects on server
+11/11/2021 11:19:18PM: Attempting to GET type All Projects from database
+11/11/2021 11:19:23PM: GET received for type All Projects on server
+11/11/2021 11:19:23PM: Attempting to GET type All Projects from database
+11/11/2021 11:19:23PM: GET received for type All Timelines on server
+11/11/2021 11:19:23PM: Attempting to GET type All Timelines from database
+11/11/2021 11:19:26PM: GET received for type All Projects on server
+11/11/2021 11:19:26PM: Attempting to GET type All Projects from database
+11/11/2021 11:24:30PM: GET received for type All Projects on server
+11/11/2021 11:24:30PM: Attempting to GET type All Projects from database
+11/11/2021 11:24:33PM: GET received for type All Projects on server
+11/11/2021 11:24:33PM: Attempting to GET type All Projects from database
+11/11/2021 11:24:33PM: GET received for type All Timelines on server
+11/11/2021 11:24:33PM: Attempting to GET type All Timelines from database
+11/11/2021 11:24:42PM: GET received for type All Projects on server
+11/11/2021 11:24:42PM: Attempting to GET type All Projects from database
+11/11/2021 11:24:43PM: GET received for type All Projects on server
+11/11/2021 11:24:43PM: Attempting to GET type All Projects from database
+11/11/2021 11:24:43PM: GET received for type All Timelines on server
+11/11/2021 11:24:43PM: Attempting to GET type All Timelines from database
+11/11/2021 11:25:46PM: GET received for type All Projects on server
+11/11/2021 11:25:46PM: Attempting to GET type All Projects from database
+11/11/2021 11:26:22PM: GET received for type All Projects on server
+11/11/2021 11:26:22PM: Attempting to GET type All Projects from database
+11/11/2021 11:28:57PM: GET received for type All Projects on server
+11/11/2021 11:28:57PM: Attempting to GET type All Projects from database
+11/11/2021 11:28:57PM: GET received for type All Timelines on server
+11/11/2021 11:28:57PM: Attempting to GET type All Timelines from database
+11/11/2021 11:29:41PM: GET received for type All Timelines on server
+11/11/2021 11:29:41PM: Attempting to GET type All Timelines from database
+11/11/2021 11:29:41PM: GET received for type All Projects on server
+11/11/2021 11:29:41PM: Attempting to GET type All Projects from database
+11/11/2021 11:33:52PM: GET received for type All Projects on server
+11/11/2021 11:33:52PM: Attempting to GET type All Projects from database
+11/11/2021 11:33:52PM: GET received for type All Timelines on server
+11/11/2021 11:33:52PM: Attempting to GET type All Timelines from database
+11/11/2021 11:34:11PM: GET received for type All Projects on server
+11/11/2021 11:34:11PM: Attempting to GET type All Projects from database
+11/11/2021 11:34:11PM: GET received for type All Timelines on server
+11/11/2021 11:34:11PM: Attempting to GET type All Timelines from database
+11/11/2021 11:36:57PM: GET received for type All Projects on server
+11/11/2021 11:36:57PM: Attempting to GET type All Projects from database
+11/11/2021 11:36:57PM: GET received for type All Timelines on server
+11/11/2021 11:36:57PM: Attempting to GET type All Timelines from database
+11/11/2021 11:39:05PM: GET received for type All Projects on server
+11/11/2021 11:39:05PM: Attempting to GET type All Projects from database
+11/11/2021 11:39:05PM: GET received for type All Timelines on server
+11/11/2021 11:39:05PM: Attempting to GET type All Timelines from database
+11/11/2021 11:40:45PM: GET received for type All Projects on server
+11/11/2021 11:40:45PM: Attempting to GET type All Projects from database
+11/11/2021 11:40:45PM: GET received for type All Timelines on server
+11/11/2021 11:40:45PM: Attempting to GET type All Timelines from database
+11/11/2021 11:44:30PM: GET received for type All Projects on server
+11/11/2021 11:44:30PM: Attempting to GET type All Projects from database
+11/11/2021 11:44:30PM: GET received for type All Timelines on server
+11/11/2021 11:44:30PM: Attempting to GET type All Timelines from database
+11/11/2021 11:47:02PM: GET received for type All Projects on server
+11/11/2021 11:47:02PM: Attempting to GET type All Projects from database
+11/11/2021 11:47:02PM: GET received for type All Timelines on server
+11/11/2021 11:47:02PM: Attempting to GET type All Timelines from database
+11/11/2021 11:47:55PM: GET received for type All Projects on server
+11/11/2021 11:47:55PM: Attempting to GET type All Projects from database
+11/11/2021 11:47:55PM: GET received for type All Timelines on server
+11/11/2021 11:47:55PM: Attempting to GET type All Timelines from database
+11/11/2021 11:49:08PM: GET received for type All Projects on server
+11/11/2021 11:49:08PM: Attempting to GET type All Projects from database
+11/11/2021 11:49:08PM: GET received for type All Timelines on server
+11/11/2021 11:49:08PM: Attempting to GET type All Timelines from database
+11/11/2021 11:50:39PM: GET received for type All Projects on server
+11/11/2021 11:50:39PM: Attempting to GET type All Projects from database
+11/11/2021 11:50:39PM: GET received for type All Timelines on server
+11/11/2021 11:50:39PM: Attempting to GET type All Timelines from database
+11/11/2021 11:51:21PM: GET received for type All Projects on server
+11/11/2021 11:51:21PM: Attempting to GET type All Projects from database
+11/11/2021 11:51:21PM: GET received for type All Timelines on server
+11/11/2021 11:51:21PM: Attempting to GET type All Timelines from database
+11/11/2021 11:51:28PM: GET received for type All Projects on server
+11/11/2021 11:51:28PM: Attempting to GET type All Projects from database
+11/11/2021 11:51:28PM: GET received for type All Timelines on server
+11/11/2021 11:51:28PM: Attempting to GET type All Timelines from database
+11/11/2021 11:51:58PM: GET received for type All Projects on server
+11/11/2021 11:51:58PM: Attempting to GET type All Projects from database
+11/11/2021 11:51:58PM: GET received for type All Timelines on server
+11/11/2021 11:51:58PM: Attempting to GET type All Timelines from database
+11/11/2021 11:52:58PM: GET received for type All Projects on server
+11/11/2021 11:52:58PM: Attempting to GET type All Projects from database
+11/11/2021 11:52:58PM: GET received for type All Timelines on server
+11/11/2021 11:52:58PM: Attempting to GET type All Timelines from database
+11/11/2021 11:53:47PM: GET received for type All Projects on server
+11/11/2021 11:53:47PM: Attempting to GET type All Projects from database
+11/11/2021 11:53:47PM: GET received for type All Timelines on server
+11/11/2021 11:53:47PM: Attempting to GET type All Timelines from database
+11/11/2021 11:55:08PM: GET received for type All Projects on server
+11/11/2021 11:55:08PM: Attempting to GET type All Projects from database
+11/11/2021 11:55:37PM: GET received for type All Projects on server
+11/11/2021 11:55:37PM: Attempting to GET type All Projects from database
+11/11/2021 11:55:43PM: GET received for type All Projects on server
+11/11/2021 11:55:43PM: Attempting to GET type All Projects from database
+11/11/2021 11:56:07PM: GET received for type All Projects on server
+11/11/2021 11:56:07PM: Attempting to GET type All Projects from database
+11/11/2021 11:56:11PM: GET received for type All Projects on server
+11/11/2021 11:56:11PM: Attempting to GET type All Projects from database
+11/11/2021 11:56:22PM: GET received for type All Projects on server
+11/11/2021 11:56:22PM: Attempting to GET type All Projects from database
+11/11/2021 11:56:53PM: GET received for type All Projects on server
+11/11/2021 11:56:53PM: Attempting to GET type All Projects from database
+11/11/2021 11:57:04PM: GET received for type All Projects on server
+11/11/2021 11:57:04PM: Attempting to GET type All Projects from database
+11/11/2021 11:57:16PM: GET received for type All Projects on server
+11/11/2021 11:57:16PM: Attempting to GET type All Projects from database
+11/11/2021 11:58:06PM: GET received for type All Timelines on server
+11/11/2021 11:58:06PM: Attempting to GET type All Timelines from database
+11/11/2021 11:58:16PM: GET received for type All Timelines on server
+11/11/2021 11:58:16PM: Attempting to GET type All Timelines from database
+11/11/2021 11:58:38PM: GET received for type All Timelines on server
+11/11/2021 11:58:38PM: Attempting to GET type All Timelines from database
+11/11/2021 11:59:08PM: GET received for type Project on server
+11/11/2021 11:59:08PM: Attempting to GET type Project from database
+11/11/2021 11:59:11PM: GET received for type All Projects on server
+11/11/2021 11:59:11PM: Attempting to GET type All Projects from database
+11/11/2021 11:59:11PM: GET received for type All Timelines on server
+11/11/2021 11:59:11PM: Attempting to GET type All Timelines from database
+12/11/2021 00:03:55AM: GET received for type All Projects on server
+12/11/2021 00:03:55AM: Attempting to GET type All Projects from database
+12/11/2021 00:04:02AM: GET received for type All Projects on server
+12/11/2021 00:04:02AM: Attempting to GET type All Projects from database
+12/11/2021 00:05:24AM: GET received for type All Projects on server
+12/11/2021 00:05:24AM: Attempting to GET type All Projects from database
+12/11/2021 00:06:04AM: GET received for type All Projects on server
+12/11/2021 00:06:04AM: Attempting to GET type All Projects from database
+12/11/2021 00:06:28AM: DELETE received for type Project on server
+12/11/2021 00:06:28AM: Attempting to DELETE type Project from database
+12/11/2021 00:06:37AM: GET received for type All Projects on server
+12/11/2021 00:06:37AM: Attempting to GET type All Projects from database
+12/11/2021 00:06:53AM: GET received for type Project on server
+12/11/2021 00:06:53AM: Attempting to GET type Project from database
+12/11/2021 00:06:53AM: TypeError: Cannot read property 'video' of undefined
+12/11/2021 00:06:58AM: GET received for type Project on server
+12/11/2021 00:06:58AM: Attempting to GET type Project from database
+12/11/2021 00:08:13AM: Setting up server...
+12/11/2021 00:08:13AM: Server started on port 3001
+12/11/2021 00:14:16AM: GET received for type All Projects on server
+12/11/2021 00:14:16AM: Attempting to GET type All Projects from database
+12/11/2021 00:15:49AM: GET received for type Project on server
+12/11/2021 00:19:00AM: Setting up server...
+12/11/2021 00:19:00AM: Server started on port 3001
+12/11/2021 00:29:17AM: GET received for type All Timelines on server
+12/11/2021 00:29:17AM: Attempting to GET type All Timelines from database
+12/11/2021 00:29:27AM: GET received for type All Projects on server
+12/11/2021 00:29:27AM: Attempting to GET type All Projects from database
+12/11/2021 00:29:45AM: POST received for type Project on server
+12/11/2021 00:29:45AM: Attempting to POST new type Project from database
+12/11/2021 00:29:52AM: GET received for type All Projects on server
+12/11/2021 00:29:52AM: Attempting to GET type All Projects from database
+12/11/2021 00:29:52AM: GET received for type All Timelines on server
+12/11/2021 00:29:52AM: Attempting to GET type All Timelines from database
+12/11/2021 00:31:30AM: GET received for type All Projects on server
+12/11/2021 00:31:30AM: Attempting to GET type All Projects from database
+12/11/2021 00:31:38AM: GET received for type All Projects on server
+12/11/2021 00:31:38AM: Attempting to GET type All Projects from database
+12/11/2021 00:31:38AM: GET received for type All Timelines on server
+12/11/2021 00:31:38AM: Attempting to GET type All Timelines from database
+12/11/2021 00:31:51AM: GET received for type All Projects on server
+12/11/2021 00:31:51AM: Attempting to GET type All Projects from database
+12/11/2021 00:32:45AM: GET received for type All Projects on server
+12/11/2021 00:32:45AM: Attempting to GET type All Projects from database
+12/11/2021 01:00:02AM: Setting up server...
+12/11/2021 01:00:02AM: Server started on port 3001
+12/11/2021 01:13:53AM: Setting up server...
+12/11/2021 01:13:53AM: Server started on port 3001
+12/11/2021 6:46:05PM: Setting up server...
+12/11/2021 6:46:05PM: Server started on port 3001
+12/11/2021 6:48:45PM: GET received for type All Projects on server
+12/11/2021 6:48:45PM: Attempting to GET type All Projects from database
+12/11/2021 6:48:51PM: GET received for type All Timelines on server
+12/11/2021 6:48:51PM: Attempting to GET type All Timelines from database
+13/11/2021 00:54:53AM: Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+13/11/2021 00:55:22AM: Setting up server...
+13/11/2021 00:55:22AM: Server started on port 3001
